@@ -4,7 +4,7 @@ A modern, responsive portfolio website built using **HTML, CSS, and JavaScript**
 
 ## 🚀 Live Demo
 
-🔗 https://your-portfolio-link.vercel.app
+🔗 index.html
 
 ## 📸 Preview
 
